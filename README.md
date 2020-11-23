@@ -15,6 +15,11 @@ to.
 Received SNMP notifications can be routed to one or more synks
 for processing via a declarative mini-language.
 
+Why this fork?
+--------------
+[Original project](https://github.com/etingof/snmpreceiver) by [Ilya Etingof](https://github.com/etingof) seems not to be continued anymore.
+Because of that, we try to maintain / enhance SNMP Notificaton Receiver.
+
 Features
 --------
 
@@ -61,5 +66,7 @@ If something does not work as expected or we are missing an interesting feature,
 post your question [on Stack Overflow](https://stackoverflow.com/questions/ask).
 
 Finally, your PRs are warmly welcome! ;-)
+
+If you want to contact us, please mail to the [Thola Team](mailto:snmplabs@thola.io)
 
 Copyright (c) 2019, [Ilya Etingof](mailto:etingof@gmail.com). All rights reserved.
